@@ -1,0 +1,7 @@
+{$HOST} {
+	basicauth /* {
+		# "user" / "password"
+		user JDJhJDEwJERVQ3k5YmhKRWxQeW5NNzExZ1hlOHViTlVVMGZiNG5CSUtMbHVUZzhnYmVZSndwNDA0VGdx
+	}
+	reverse_proxy 127.0.0.1:42024
+}
