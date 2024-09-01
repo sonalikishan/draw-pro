@@ -1,4 +1,4 @@
-# Remote-Draw
+# Draw-Pro
 
 Collaborative painting on a canvas over the network, using socket.io.
 
